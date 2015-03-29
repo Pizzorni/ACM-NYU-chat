@@ -3,3 +3,5 @@
 
 
 **This is a simple chat client and server for the members of ACM @ NYU to communicate. _NOT ON FB_**
+
+Note: does not work. Nicholaus sucks. 
